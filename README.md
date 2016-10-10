@@ -1,11 +1,8 @@
 # Sound Study Modular AirWAV
 
-##Important Information
-
-The Sound Study Modular AirWAV is a clone of the Music Thing Modular Radio Music, as is parts of this file. The Radio Music is Open Hardware, all hardware and software design in that project is Creative Commons licensed by Tom Whitwell: CC-BY-SA: Attribution / ShareAlike. If you are seeking support, have ANY questions, or need ANY assistance whatsoever with Sound Study Modular PCB’s, kits, or assembled modules, then DO NOT contact Music Thing Modular for any reason related to this product.  Sound Study Modular will assist with service, support and any other questions that you may have.  You can contact us at soundstudymodular@gmail.com
 ##Information for re-use, adaptations or derivative works
 
-Sound Study Modular (and Music Thing Modular) are trademarked, and should not be used on any of works you create from these files.
+Sound Study Modular is trademarked, and should not be used on any of works you create from these files.
 
 We ask that if you want to re-use all or part of the files provided on github that you change the name of the product to something else
 
